@@ -3,14 +3,14 @@
 I’m **Evan Djiemon**, a passionate data enthusiast with a strong interest in leveraging data-driven approaches to solve **complex financial problems**. Here you’ll find my work in machine learning, finance, and data science, as well as my journey of continuous learning.
 
 ## 💡 A bit about me
-I’m currently a Master’s student at [ENSAE](https://www.ensae.fr/en), where I’m diving deep into **machine learning**, **statistics**, and **financial data analysis**. My studies and projects focus on how to harness the power of data to gain insights and drive decision-making in **finance**.
+I’m currently a Master’s student at [ENSAE](https://www.ensae.fr/en), where I’m diving deep into **machine learning**, **statistics**, and **finance**. My studies and projects focus on how to harness the power of data to gain insights and drive decision-making in **quantitative finance**.
 
 - **⚡ Fun fact**: I'm a huge **Real Madrid** fan and never miss a match!
 
 ## 🔎 What I’m currently working on:
 - Expanding my expertise in **deep learning** and its applications to **financial markets**.
 
-
+<!--
 ## 🚀 Featured Projects
 
 | Project | Description | Technologies |
@@ -19,7 +19,7 @@ I’m currently a Master’s student at [ENSAE](https://www.ensae.fr/en), where 
 | [**Stock Return Predictions**](https://github.com/yourusername/project2) | Machine learning models to predict stock returns using financial data. | Scikit-learn, TensorFlow, Python |
 | [**Optimization of Delivery Networks**](https://github.com/yourusername/project3) | Solving a real-world logistics optimization problem. | C++, Python |
 | [**Monte Carlo Simulations in Finance**](https://github.com/yourusername/project4) | Using Monte Carlo methods to model and analyze financial instruments. | Python, Numpy |
-
+-->
 ## 🛠️ Skills & Technologies
 <div id="badges">
   <a href=""><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
