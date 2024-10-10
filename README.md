@@ -45,11 +45,16 @@ Here are some of the projects I worked on during my studies at ENSAE:
 
 ### **ENSAE Paris**
 At ENSAE, I specialized in **data science** and **finance**, with courses in:
-- **Statistics**
-- **Econometrics**
-- **Machine Learning**
-- **Stochastic Modelling**
-- **Financial Instruments**
+- **Statistics**:This course focuses on the core principles of probabilistic and statistical modeling, providing students with the tools to analyze data and apply statistical inference methods in various fields​
+- **Econometrics**:The econometrics course teaches students how to apply statistical methods to economic data, focusing on regression analysis, hypothesis testing, and model selection to make predictions and interpret economic phenomena
+- **Machine Learning**:This course introduces key concepts in machine learning, including supervised and unsupervised learning techniques, with applications in finance and economics, such as predictive modeling and data-driven decision-making
+- **Stochastic Modelling**:The course covers stochastic processes, emphasizing the modeling of random phenomena over time. It applies these models to finance, economics, and other fields requiring the understanding of uncertainty and dynamic systems
+- **Financial Instruments**:This course provides an introduction to the pricing and valuation of financial instruments, including derivatives and options, using mathematical models and econometric tools​
+ENSAE Paris
+- **Macroeconomics**: This course covers the fundamental principles of macroeconomic theory, focusing on economic fluctuations, growth, and monetary policy to understand the functioning of economies at a national and global level.
+- **Microeconomics**: This course provides an in-depth study of individual decision-making processes and market interactions, focusing on consumer behavior, production theory, and market structures.
+- **Financial Mathematics**: This course introduces the mathematical techniques used in finance, including stochastic calculus, for pricing and valuing financial instruments such as derivatives.
+- **Time Series**: This course explores the analysis and modeling of temporal data, emphasizing linear time series models and their application in economic and financial forecasting.
 
 ## 🌐 Let’s Connect!
 <div id="badges">
