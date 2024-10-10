@@ -39,7 +39,7 @@ Here are some of the projects I worked on during my studies at ENSAE:
 |---|---|
 | **Graph Search Algorithms for Swap Puzzle Resolution** | [GitHub](https://github.com/edjiemonyoumbi/swap_puzzle) [PDF](https://github.com/edjiemonyoumbi/swap_puzzle/blob/main/Rapport%20du%20projet%20de%20programmation.pdf) |
 | **Analysis of Well-being Factors in France Using Statistical Methods** | [GitHub](https://github.com/edjiemonyoumbi/well_being_factors_SAS) [PDF](https://github.com/edjiemonyoumbi/well_being_factors_SAS/blob/main/Rapport_10_15.pdf) |
-| **Analysis of Central Banks’ Role in Financial Crises** | [GitHub](https://github.com/yourusername/monte-carlo) [PDF](https://github.com/yourusername/monte-carlo/report.pdf) |
+| **Analysis of Central Banks’ Role in Financial Crises** | [PDF](https://github.com/edjiemonyoumbi/central_banks_financial_crisis/blob/main/Memoire%20groupe%203.pdf) |
 
 ## 🎓 Education
 
