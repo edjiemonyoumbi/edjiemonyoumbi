@@ -37,7 +37,7 @@ Here are some of the projects I worked on during my studies at ENSAE:
 
 | Project | Links |
 |---|---|
-| **Graph Search Algorithms for Swap Puzzle Resolution** | [GitHub](https://github.com/yourusername/bubbles-and-crashes) [PDF](https://github.com/yourusername/bubbles-and-crashes/report.pdf) |
+| **Graph Search Algorithms for Swap Puzzle Resolution** | [GitHub](https://github.com/yourusername/bubbles-and-crashes) [PDF](https://github.com/edjiemonyoumbi/swap_puzzle/blob/main/Rapport%20du%20projet%20de%20programmation.pdf) |
 | **Analysis of Well-being Factors in France Using Statistical Methods** | [GitHub](https://github.com/yourusername/stat-app) [PDF](https://github.com/yourusername/stat-app/report.pdf) |
 | **Analysis of Central Banks’ Role in Financial Crises** | [GitHub](https://github.com/yourusername/monte-carlo) [PDF](https://github.com/yourusername/monte-carlo/report.pdf) |
 
