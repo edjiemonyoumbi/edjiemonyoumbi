@@ -1,16 +1,15 @@
 # 👋 Welcome to my GitHub profile!
 
-I’m **[Your Name]**, a passionate data enthusiast with a strong interest in leveraging data-driven approaches to solve **complex financial problems**. Here you’ll find my work in machine learning, finance, and data science, as well as my journey of continuous learning.
+I’m **Evan Djiemon**, a passionate data enthusiast with a strong interest in leveraging data-driven approaches to solve **complex financial problems**. Here you’ll find my work in machine learning, finance, and data science, as well as my journey of continuous learning.
 
 ## 💡 A bit about me
 I’m currently a Master’s student at [ENSAE](https://www.ensae.fr/en), where I’m diving deep into **machine learning**, **statistics**, and **financial data analysis**. My studies and projects focus on how to harness the power of data to gain insights and drive decision-making in **finance**.
 
-- **Fun fact**: I'm a huge **Real Madrid** fan and never miss a match!
+- **⚡ Fun fact**: I'm a huge **Real Madrid** fan and never miss a match!
 
 ## 🔎 What I’m currently working on:
-- **Developing models** to predict financial market movements using time series data.
 - Expanding my expertise in **deep learning** and its applications to **financial markets**.
-- Building a project focused on the **impact of geopolitical risks** on the forex market.
+
 
 ## 🚀 Featured Projects
 
@@ -38,22 +37,24 @@ Here are some of the projects I worked on during my studies at ENSAE:
 
 | Project | Links |
 |---|---|
-| **Bubbles and Crashes in Financial Markets** | [GitHub](https://github.com/yourusername/bubbles-and-crashes) [PDF](https://github.com/yourusername/bubbles-and-crashes/report.pdf) |
-| **Stat-App: Advanced Statistical Learning** | [GitHub](https://github.com/yourusername/stat-app) [PDF](https://github.com/yourusername/stat-app/report.pdf) |
-| **Monte Carlo Simulations** | [GitHub](https://github.com/yourusername/monte-carlo) [PDF](https://github.com/yourusername/monte-carlo/report.pdf) |
+| **Graph Search Algorithms for Swap Puzzle Resolution** | [GitHub](https://github.com/yourusername/bubbles-and-crashes) [PDF](https://github.com/yourusername/bubbles-and-crashes/report.pdf) |
+| **Analysis of Well-being Factors in France Using Statistical Methods** | [GitHub](https://github.com/yourusername/stat-app) [PDF](https://github.com/yourusername/stat-app/report.pdf) |
+| **Analysis of Central Banks’ Role in Financial Crises** | [GitHub](https://github.com/yourusername/monte-carlo) [PDF](https://github.com/yourusername/monte-carlo/report.pdf) |
 
 ## 🎓 Education
 
 ### **ENSAE Paris**
 At ENSAE, I specialized in **data science** and **finance**, with courses in:
-- **Bayesian Statistics**: Probabilistic approaches to data analysis.
-- **Financial Econometrics**: Analyzing and modeling financial time series.
-- **Advanced Machine Learning**: Techniques for high-dimensional data and applications in finance.
+- **Statistics**
+- **Econometrics**
+- **Machine Learning**
+- **Stochastic Modelling**
+- **Financial Instruments**
 
 ## 🌐 Let’s Connect!
 <div id="badges">
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+  <a href="https://www.linkedin.com/in/evan-djiemon-youmbi-709927245/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:evanyoumbijanv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
 
 ## :bar_chart: GitHub Stats
